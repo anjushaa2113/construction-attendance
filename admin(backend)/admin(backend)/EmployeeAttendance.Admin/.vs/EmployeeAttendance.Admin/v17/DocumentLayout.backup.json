@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\anju\\EmployeeAttendance.Admin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F284A3DB-FA9B-4060-BA9B-618B85D7EFAE}|..\\EmployeeAttendance.Admin.Domain\\EmployeeAttendance.Admin.Domain.csproj|c:\\anju\\employeeattendance.admin.domain\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEBAC7D-4C2C-4145-9462-AB177D0E912E}|..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj|c:\\anju\\employeeattendance.admin.infrastructure\\data\\admindbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEBAC7D-4C2C-4145-9462-AB177D0E912E}|..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj|c:\\anju\\employeeattendance.admin.infrastructure\\repositories\\admindashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\services\\admindashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\interfaces\\iadmindashboardrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\interfaces\\iadmindashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\controllers\\attendancecorrectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:controllers\\attendancecorrectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\interfaces\\iattendanceapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\bulkuploaddtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\attendancecorrectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F284A3DB-FA9B-4060-BA9B-618B85D7EFAE}|..\\EmployeeAttendance.Admin.Domain\\EmployeeAttendance.Admin.Domain.csproj|c:\\anju\\employeeattendance.admin.domain\\enums\\correctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\services\\attendanceapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\interfaces\\ileaveapprovalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\stafflistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEBAC7D-4C2C-4145-9462-AB177D0E912E}|..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj|c:\\anju\\employeeattendance.admin.infrastructure\\employeeattendance.admin.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\services\\leaveapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEBAC7D-4C2C-4145-9462-AB177D0E912E}|..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj|c:\\anju\\employeeattendance.admin.infrastructure\\repositories\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\controllers\\leaveapprovalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:controllers\\leaveapprovalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F284A3DB-FA9B-4060-BA9B-618B85D7EFAE}|..\\EmployeeAttendance.Admin.Domain\\EmployeeAttendance.Admin.Domain.csproj|c:\\anju\\employeeattendance.admin.domain\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\interfaces\\ileaveapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F284A3DB-FA9B-4060-BA9B-618B85D7EFAE}|..\\EmployeeAttendance.Admin.Domain\\EmployeeAttendance.Admin.Domain.csproj|c:\\anju\\employeeattendance.admin.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|c:\\anju\\employeeattendance.admin\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB1E81ED-81F2-46A8-8BA6-DF3FB2E3E29A}|EmployeeAttendance.Admin.API.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4766662-6D9A-479A-8475-8A401D948E70}|..\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj|c:\\anju\\employeeattendance.admin.application\\dtos\\admindashboarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABEBAC7D-4C2C-4145-9462-AB177D0E912E}|..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj|c:\\anju\\employeeattendance.admin.infrastructure\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:22:42.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboardRepository.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\AdminDashboardRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\AdminDashboardRepository.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\AdminDashboardRepository.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\AdminDashboardRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:23:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAdminDashboardRepository.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardRepository.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardRepository.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T04:23:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAwwJYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:55:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminDashboardService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\AdminDashboardService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Services\\AdminDashboardService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\AdminDashboardService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Services\\AdminDashboardService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wBYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:48:17.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:46:27.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttendanceCorrectionDto.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\AttendanceCorrectionDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\AttendanceCorrectionDto.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\AttendanceCorrectionDto.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\AttendanceCorrectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:14:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CorrectionStatus.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Enums\\CorrectionStatus.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Domain\\Enums\\CorrectionStatus.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Enums\\CorrectionStatus.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Domain\\Enums\\CorrectionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:29:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAttendanceApprovalService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IAttendanceApprovalService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IAttendanceApprovalService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IAttendanceApprovalService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IAttendanceApprovalService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:28:51.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceCorrectionController.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\AttendanceCorrectionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceCorrectionController.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\AttendanceCorrectionController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceCorrectionController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:54:05.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StaffListDto.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\StaffListDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\StaffListDto.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\StaffListDto.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\StaffListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:54:09.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T10:42:45.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeAttendance.Admin.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Infrastructure\\EmployeeAttendance.Admin.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T09:32:20.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LeaveApprovalService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\LeaveApprovalService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Services\\LeaveApprovalService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\LeaveApprovalService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Services\\LeaveApprovalService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAkwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:54:18.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\LeaveRequestRepository.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\LeaveRequestRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:50:27.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Entities\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Domain\\Entities\\LeaveRequest.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Entities\\LeaveRequest.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Domain\\Entities\\LeaveRequest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:46:50.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ILeaveApprovalRepository.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalRepository.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalRepository.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:46:39.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ILeaveApprovalService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\ILeaveApprovalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:46:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AttendanceApprovalService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\AttendanceApprovalService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Services\\AttendanceApprovalService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\AttendanceApprovalService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Services\\AttendanceApprovalService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:45:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BulkUploadDtos.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\BulkUploadDtos.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\BulkUploadDtos.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\BulkUploadDtos.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\BulkUploadDtos.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:23:37.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:20:16.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:17:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:06:15.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAywBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:46:07.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAYwHwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:45:15.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:35:37.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAdminDashboardService.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardService.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardService.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardService.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\Interfaces\\IAdminDashboardService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:20:57.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminDashboardDto.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\AdminDashboardDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\AdminDashboardDto.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\AdminDashboardDto.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\AdminDashboardDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:20:28.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDbContext.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Data\\AdminDbContext.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Infrastructure\\Data\\AdminDbContext.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Data\\AdminDbContext.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Infrastructure\\Data\\AdminDbContext.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:44:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Domain\\Entities\\Attendance.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Domain\\Entities\\Attendance.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Domain\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:37:41.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeaveApprovalController.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\LeaveApprovalController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LeaveApprovalController.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin\\Controllers\\LeaveApprovalController.cs",
+              "RelativeToolTip": "Controllers\\LeaveApprovalController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:14:40.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Infrastructure\\Repositories\\ReportRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:42:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "..\\EmployeeAttendance.Admin.Application\\DTOs\\LeaveRequestDto.cs",
+              "ToolTip": "C:\\anju\\EmployeeAttendance.Admin.Application\\DTOs\\LeaveRequestDto.cs",
+              "RelativeToolTip": "..\\EmployeeAttendance.Admin.Application\\DTOs\\LeaveRequestDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T05:10:45.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J1/QE9SekCk=",
+  "success": true,
+  "projectFilePath": "C:\\anju\\EmployeeAttendance.Admin\\EmployeeAttendance.Admin.Application\\EmployeeAttendance.Admin.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\bcrypt.net-next\\4.1.0\\bcrypt.net-next.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

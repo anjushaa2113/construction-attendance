@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vMKhJKSZDL2zZeuCaPJuTxvDv4XudoGN+6FSMVcielg=",
+  "Source": "EmployeeAttendance.Admin.API",
+  "BasePath": "_content/EmployeeAttendance.Admin.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

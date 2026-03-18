@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeAttendance.Domain",
+    "\\EmployeeAttendance.Domain\\Entities",
+    "\\EmployeeAttendance.Infrastructure",
+    "\\EmployeeAttendance.Infrastructure\\Data"
+  ],
+  "SelectedNode": "\\EmployeeAttendance.Domain",
+  "PreviewInSolutionExplorer": false
+}

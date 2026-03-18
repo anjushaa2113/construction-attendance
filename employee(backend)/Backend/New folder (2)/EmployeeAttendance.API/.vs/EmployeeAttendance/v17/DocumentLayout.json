@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\model\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\model\\forgotpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\controllers\\leavecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.infrastructure\\services\\attendancecorrectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|solutionrelative:employeeattendance.infrastructure\\services\\attendancecorrectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\controllers\\attendancecorrectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\controllers\\attendancecorrectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.domain\\entities\\attendancecorrection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|solutionrelative:employeeattendance.domain\\entities\\attendancecorrection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\interfaces\\iattendancecorrectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\interfaces\\iattendancecorrectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\model\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\model\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\attendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\attendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|solutionrelative:employeeattendance.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\interfaces\\iemployeereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\interfaces\\iemployeereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.domain\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|solutionrelative:employeeattendance.domain\\entities\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\attendancedetaileddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\attendancedetaileddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\attendancecorrectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\attendancecorrectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|solutionrelative:employeeattendance.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.infrastructure\\services\\employeereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|solutionrelative:employeeattendance.infrastructure\\services\\employeereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\controllers\\employeereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\controllers\\employeereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.infrastructure\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E36529-324F-449F-BD48-6B16A17B08DE}|EmployeeAttendance.Infrastructure\\EmployeeAttendance.Infrastructure.csproj|solutionrelative:employeeattendance.infrastructure\\services\\leaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.domain\\entities\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|solutionrelative:employeeattendance.domain\\entities\\leave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\interfaces\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\interfaces\\ileaveservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\createleavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\createleavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\leavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\leavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.domain\\entities\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|solutionrelative:employeeattendance.domain\\entities\\leavetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\myleavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\myleavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17140250-C13B-47C0-B596-5E3D43EC2819}|EmployeeAttendance.API\\EmployeeAttendance.API.csproj|solutionrelative:employeeattendance.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.domain\\enums\\correctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A469A7-AF93-4E0A-B8B0-6CD7668FAD76}|EmployeeAttendance.Domain\\EmployeeAttendance.Domain.csproj|solutionrelative:employeeattendance.domain\\enums\\correctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|c:\\users\\lenovo\\desktop\\new folder (2)\\employeeattendance.api\\employeeattendance.application\\dto\\createattendancecorrectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E12812B-74B4-412D-8B99-42DF83DEAB6D}|EmployeeAttendance.Application\\EmployeeAttendance.Application.csproj|solutionrelative:employeeattendance.application\\dto\\createattendancecorrectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ForgotPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Model\\ForgotPasswordRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Model\\ForgotPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Model\\ForgotPasswordRequest.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Model\\ForgotPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T06:50:41.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeReportService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Services\\EmployeeReportService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Infrastructure\\Services\\EmployeeReportService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Services\\EmployeeReportService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Infrastructure\\Services\\EmployeeReportService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAQwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T05:53:03.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeReportController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\EmployeeReportController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Controllers\\EmployeeReportController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\EmployeeReportController.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Controllers\\EmployeeReportController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:53:59.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\Attendance.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Domain\\Entities\\Attendance.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\Attendance.cs",
+              "RelativeToolTip": "EmployeeAttendance.Domain\\Entities\\Attendance.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:06:41.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Model\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Model\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Model\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Model\\ChangePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T05:42:42.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\appsettings.json",
+              "RelativeToolTip": "EmployeeAttendance.API\\appsettings.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T09:53:28.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LeaveType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\LeaveType.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Domain\\Entities\\LeaveType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\LeaveType.cs",
+              "RelativeToolTip": "EmployeeAttendance.Domain\\Entities\\LeaveType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:41:27.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LeaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\LeaveDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\LeaveDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\LeaveDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\LeaveDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA+wAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T08:27:11.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ILeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\Interfaces\\ILeaveService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\Interfaces\\ILeaveService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\Interfaces\\ILeaveService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\Interfaces\\ILeaveService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAxwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:15:20.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LeaveService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Services\\LeaveService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Infrastructure\\Services\\LeaveService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Services\\LeaveService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Infrastructure\\Services\\LeaveService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA5wCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:13:47.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Leave.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\Leave.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Domain\\Entities\\Leave.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\Leave.cs",
+              "RelativeToolTip": "EmployeeAttendance.Domain\\Entities\\Leave.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:12:02.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateLeaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\CreateLeaveDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\CreateLeaveDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\CreateLeaveDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\CreateLeaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:02:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\LeaveController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Controllers\\LeaveController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\LeaveController.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Controllers\\LeaveController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:00:39.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeAttendance.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T11:38:05.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAIwAgBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T12:05:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeReportService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\Interfaces\\IEmployeeReportService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\Interfaces\\IEmployeeReportService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\Interfaces\\IEmployeeReportService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\Interfaces\\IEmployeeReportService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T10:09:20.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateAttendanceCorrectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\CreateAttendanceCorrectionDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\CreateAttendanceCorrectionDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\CreateAttendanceCorrectionDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\CreateAttendanceCorrectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:46:19.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttendanceDetailedDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\AttendanceDetailedDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\AttendanceDetailedDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\AttendanceDetailedDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\AttendanceDetailedDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA2wAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:53:20.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAttendanceCorrectionService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\Interfaces\\IAttendanceCorrectionService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\Interfaces\\IAttendanceCorrectionService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\Interfaces\\IAttendanceCorrectionService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\Interfaces\\IAttendanceCorrectionService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:18:40.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CorrectionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Enums\\CorrectionStatus.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Domain\\Enums\\CorrectionStatus.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Enums\\CorrectionStatus.cs",
+              "RelativeToolTip": "EmployeeAttendance.Domain\\Enums\\CorrectionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T09:11:25.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MyLeaveDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\MyLeaveDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\MyLeaveDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\MyLeaveDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\MyLeaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:53:44.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttendanceSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\AttendanceSummaryDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\AttendanceSummaryDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\AttendanceSummaryDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\AttendanceSummaryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:53:31.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AttendanceCorrectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\AttendanceCorrectionDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Application\\DTO\\AttendanceCorrectionDto.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Application\\DTO\\AttendanceCorrectionDto.cs",
+              "RelativeToolTip": "EmployeeAttendance.Application\\DTO\\AttendanceCorrectionDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:52:44.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceCorrectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\AttendanceCorrectionsController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Controllers\\AttendanceCorrectionsController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\AttendanceCorrectionsController.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Controllers\\AttendanceCorrectionsController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAqwG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:42:39.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AttendanceCorrectionService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Services\\AttendanceCorrectionService.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Infrastructure\\Services\\AttendanceCorrectionService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Services\\AttendanceCorrectionService.cs",
+              "RelativeToolTip": "EmployeeAttendance.Infrastructure\\Services\\AttendanceCorrectionService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwGgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T08:27:37.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Program.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:28:40.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceCorrection.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\AttendanceCorrection.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Domain\\Entities\\AttendanceCorrection.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\AttendanceCorrection.cs",
+              "RelativeToolTip": "EmployeeAttendance.Domain\\Entities\\AttendanceCorrection.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA8wB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:10:37.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeAttendance.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:02:29.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAttendance.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA+wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T05:02:08.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAttendance.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\New folder (2)\\EmployeeAttendance.API\\EmployeeAttendance.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeAttendance.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwKkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:57:12.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

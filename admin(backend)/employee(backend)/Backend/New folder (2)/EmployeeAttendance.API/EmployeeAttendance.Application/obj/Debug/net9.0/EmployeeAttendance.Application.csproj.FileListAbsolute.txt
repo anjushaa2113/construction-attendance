@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\bin\Debug\net9.0\EmployeeAttendance.Application.deps.json
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\bin\Debug\net9.0\EmployeeAttendance.Application.dll
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\bin\Debug\net9.0\EmployeeAttendance.Application.pdb
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\bin\Debug\net9.0\EmployeeAttendance.Domain.dll
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\bin\Debug\net9.0\EmployeeAttendance.Domain.pdb
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\Employee.4F4DAD27.Up2Date
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.dll
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\refint\EmployeeAttendance.Application.dll
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\EmployeeAttendance.Application.pdb
+C:\Users\LENOVO\Desktop\New folder (2)\EmployeeAttendance.API\EmployeeAttendance.Application\obj\Debug\net9.0\ref\EmployeeAttendance.Application.dll

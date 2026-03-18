@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ✅ Hide browser native password reveal button */
+input::-ms-reveal,
+input::-ms-clear {
+  display: none !important;
+}
+
+input[type="password"]::-webkit-contacts-auto-fill-button,
+input[type="password"]::-webkit-credentials-auto-fill-button {
+  display: none !important;
+}
+
+@layer base {
+    body {
+        @apply bg-slate-50 text-slate-900;
+        scroll-behavior: smooth;
+    }
+
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+        width: 6px;
+        height: 6px;
+    }
+
+    ::-webkit-scrollbar-track {
+        @apply bg-transparent;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        @apply bg-slate-200 rounded-full hover:bg-slate-300 transition-colors;
+    }
+}
+
+@layer utilities {
+    .shadow-premium {
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.04);
+    }
+
+    .shadow-premium-hover {
+        box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
+    }
+}
+
+@layer components {
+    .glass {
+        @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-sm;
+    }
+
+    .glass-dark {
+        @apply bg-slate-900/80 backdrop-blur-md border border-slate-700/30 shadow-xl;
+    }
+
+    .premium-card {
+        @apply bg-white rounded-2xl shadow-premium border border-slate-100 p-6 transition-all duration-300 hover:shadow-premium-hover hover:-translate-y-1;
+    }
+
+    .nav-active {
+        @apply bg-accent-50 text-accent-600 border-l-4 border-accent-600 font-semibold;
+    }
+}
